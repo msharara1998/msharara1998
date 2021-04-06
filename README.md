@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msharara1998, 
 - 👀 I am a university student studying CCE, and self-studying programming
 - 🌱 I’m currently learning 'Deep Learning', and I code in Python
-- 💞️ I’m looking for any remote or Beirut-based internship in Deep learning domain to refine my skills and add to them
+- 💞️ I’m looking for any remote or Lebanon-based internship in Deep learning domain to refine my skills and add to them
 - 📫 How to reach me: ms198mohammad@gmail.com
 
 <!---

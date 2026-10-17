@@ -1,6 +1,6 @@
 - Computer and Communication engineer, and a programmer
 - AI and software engineer | NLP
-- Life-learner
+- Lifelong-learner
 - How to reach me: ms198mohammad@gmail.com
 
 <!---
